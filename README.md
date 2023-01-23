@@ -1,16 +1,64 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**vladiq113/vladiq113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - ПГСХА (Бакалавр): 09.03.02 - Информационные системы и технологии
+  - 
+  - 
+* 
+*  
+* 
+* 
 
-Here are some ideas to get you started:
+### 📚 Проекты 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Кликни [сюда]() чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills: 
+    * 
+    * 
+    * 
+
+### ⚡️ В настоящее время ⚡️
+- Изучаю курс Data Science от SlillFactory
+- 
+- 
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](t.me/vladiq)
+- [Kaggle]()
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+ - 
+ - 
+ - 
+* 
+* 
+* 
+* 
+
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * 
+    * 
+    * 
+
+
+### ⚡️ Currently ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Contact me
+- [Telegram]()
+- [Kaggle](t.me/vladiq)
